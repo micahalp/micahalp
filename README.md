@@ -1,7 +1,4 @@
 ## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micahalp&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=micahalp&theme=merko" alt="GitHub Streak" />
 
 ## GitHub Activity Graph
